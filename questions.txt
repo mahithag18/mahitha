@@ -1,10 +1,18 @@
 What is /*?
+It is a Symbol that represents a comment line.
 How many times /* has to be used?
+For single line comments once  and for multiline moments one at the begining and one at the end
 Is /* mandatory in a program?
+not necessarily, but incerases the readability of the program
 What is stdio.h?
 What is printf?
+A function which helps to print some information(statements) on console.
 Why semicolon and when to use it?
+Semicolon indicates end of the statement.
+need to be used for all statements except for function definition, #include statements
 what is main?
+A function from which the execution of a program starts.
 What is return 0 ?
+Represents that zero is returned from the main fuction.
 Why int before main?
-
+Indicates the return type of the main function.
