@@ -1,0 +1,10 @@
+What is /*?
+How many times /* has to be used?
+Is /* mandatory in a program?
+What is stdio.h?
+What is printf?
+Why semicolon and when to use it?
+what is main?
+What is return 0 ?
+Why int before main?
+
