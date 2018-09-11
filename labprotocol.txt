@@ -1,0 +1,9 @@
+Problem statement explanation
+Identify the input 
+Identify the output
+split the overall task to input function, output function  and compute function
+Start codeing the logic in observation book
+choose appropriate programing constructs to code compute funtion.
+complete the program by adding specific input and output function.
+type the program, compile, execute....
+Gudielines is given my faculty at each step
